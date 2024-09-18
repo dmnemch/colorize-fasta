@@ -1,5 +1,5 @@
 import argparse
-import regex as re
+import re
 from tqdm import tqdm
 from Bio import SeqIO
 from Bio.Seq import Seq
